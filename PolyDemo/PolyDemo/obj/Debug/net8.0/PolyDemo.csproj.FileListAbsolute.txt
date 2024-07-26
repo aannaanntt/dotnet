@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\PolyDemo\PolyDemo\obj\Debug\net8.0\PolyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\PolyDemo\PolyDemo\obj\Debug\net8.0\PolyDemo.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\PolyDemo\PolyDemo\obj\Debug\net8.0\PolyDemo.AssemblyInfo.cs
+C:\Users\Dell\source\repos\PolyDemo\PolyDemo\obj\Debug\net8.0\PolyDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\PolyDemo\PolyDemo\bin\Debug\net8.0\PolyDemo.exe
+C:\Users\Dell\source\repos\PolyDemo\PolyDemo\bin\Debug\net8.0\PolyDemo.deps.json
+C:\Users\Dell\source\repos\PolyDemo\PolyDemo\bin\Debug\net8.0\PolyDemo.runtimeconfig.json
+C:\Users\Dell\source\repos\PolyDemo\PolyDemo\bin\Debug\net8.0\PolyDemo.dll
+C:\Users\Dell\source\repos\PolyDemo\PolyDemo\bin\Debug\net8.0\PolyDemo.pdb
+C:\Users\Dell\source\repos\PolyDemo\PolyDemo\obj\Debug\net8.0\PolyDemo.dll
+C:\Users\Dell\source\repos\PolyDemo\PolyDemo\obj\Debug\net8.0\refint\PolyDemo.dll
+C:\Users\Dell\source\repos\PolyDemo\PolyDemo\obj\Debug\net8.0\PolyDemo.pdb
+C:\Users\Dell\source\repos\PolyDemo\PolyDemo\obj\Debug\net8.0\PolyDemo.genruntimeconfig.cache
+C:\Users\Dell\source\repos\PolyDemo\PolyDemo\obj\Debug\net8.0\ref\PolyDemo.dll
