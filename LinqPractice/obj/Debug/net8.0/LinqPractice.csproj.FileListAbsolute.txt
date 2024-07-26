@@ -1,0 +1,14 @@
+D:\dotnet\LinqPractice\bin\Debug\net8.0\LinqPractice.exe
+D:\dotnet\LinqPractice\bin\Debug\net8.0\LinqPractice.deps.json
+D:\dotnet\LinqPractice\bin\Debug\net8.0\LinqPractice.runtimeconfig.json
+D:\dotnet\LinqPractice\bin\Debug\net8.0\LinqPractice.dll
+D:\dotnet\LinqPractice\bin\Debug\net8.0\LinqPractice.pdb
+D:\dotnet\LinqPractice\obj\Debug\net8.0\LinqPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\LinqPractice\obj\Debug\net8.0\LinqPractice.AssemblyInfoInputs.cache
+D:\dotnet\LinqPractice\obj\Debug\net8.0\LinqPractice.AssemblyInfo.cs
+D:\dotnet\LinqPractice\obj\Debug\net8.0\LinqPractice.csproj.CoreCompileInputs.cache
+D:\dotnet\LinqPractice\obj\Debug\net8.0\LinqPractice.dll
+D:\dotnet\LinqPractice\obj\Debug\net8.0\refint\LinqPractice.dll
+D:\dotnet\LinqPractice\obj\Debug\net8.0\LinqPractice.pdb
+D:\dotnet\LinqPractice\obj\Debug\net8.0\LinqPractice.genruntimeconfig.cache
+D:\dotnet\LinqPractice\obj\Debug\net8.0\ref\LinqPractice.dll
