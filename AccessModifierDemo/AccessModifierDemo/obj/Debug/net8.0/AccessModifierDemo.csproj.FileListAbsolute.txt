@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\AccessModifierDemo\AccessModifierDemo\bin\Debug\net8.0\AccessModifierDemo.exe
+C:\Users\Dell\source\repos\AccessModifierDemo\AccessModifierDemo\bin\Debug\net8.0\AccessModifierDemo.deps.json
+C:\Users\Dell\source\repos\AccessModifierDemo\AccessModifierDemo\bin\Debug\net8.0\AccessModifierDemo.runtimeconfig.json
+C:\Users\Dell\source\repos\AccessModifierDemo\AccessModifierDemo\bin\Debug\net8.0\AccessModifierDemo.dll
+C:\Users\Dell\source\repos\AccessModifierDemo\AccessModifierDemo\bin\Debug\net8.0\AccessModifierDemo.pdb
+C:\Users\Dell\source\repos\AccessModifierDemo\AccessModifierDemo\obj\Debug\net8.0\AccessModifierDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\AccessModifierDemo\AccessModifierDemo\obj\Debug\net8.0\AccessModifierDemo.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\AccessModifierDemo\AccessModifierDemo\obj\Debug\net8.0\AccessModifierDemo.AssemblyInfo.cs
+C:\Users\Dell\source\repos\AccessModifierDemo\AccessModifierDemo\obj\Debug\net8.0\AccessModifierDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\AccessModifierDemo\AccessModifierDemo\obj\Debug\net8.0\AccessModifierDemo.dll
+C:\Users\Dell\source\repos\AccessModifierDemo\AccessModifierDemo\obj\Debug\net8.0\refint\AccessModifierDemo.dll
+C:\Users\Dell\source\repos\AccessModifierDemo\AccessModifierDemo\obj\Debug\net8.0\AccessModifierDemo.pdb
+C:\Users\Dell\source\repos\AccessModifierDemo\AccessModifierDemo\obj\Debug\net8.0\AccessModifierDemo.genruntimeconfig.cache
+C:\Users\Dell\source\repos\AccessModifierDemo\AccessModifierDemo\obj\Debug\net8.0\ref\AccessModifierDemo.dll
